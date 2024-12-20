@@ -7,6 +7,7 @@ import pic6 from "./assets/images/pic6.jpg";
 import pic7 from "./assets/images/pic7.jpg";
 import pic8 from "./assets/images/pic8.jpg";
 import pic9 from "./assets/images/pic9.jpg";
+import image3 from "./assets/images/image3.jpg";
 export const restaurants = [
     {
       id: 1,
@@ -40,6 +41,12 @@ export const restaurants = [
       image: pic8,
       description: "Experience the feel from Maggy's hotel",
     },
+    {
+      id: 5,
+      name: "FRUITS PAGE",
+      image: image3,
+      description: "Order available fresh fruits that are at your disposal",
+    }
   ];
   
   export const fruits = [

@@ -14,11 +14,11 @@ const Navbar = () => {
             Home
           </Link>
         </li>
-        <li>
+        {/* <li>
           <Link to="/fruits" className="hover:underline text-lg">
             Fruits
           </Link>
-        </li>
+        </li> */}
       </ul>
     </nav>
   );
