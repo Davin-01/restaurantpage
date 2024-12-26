@@ -25,11 +25,7 @@ const Home = () => {
           alt="Restaurant 2"
           className="w-80 h-52 object-cover rounded-lg shadow-md"
         />
-        {/* <img
-          src="./assets/restaurant3.jpg"
-          alt="Restaurant 3"
-          className="w-80 h-52 object-cover rounded-lg shadow-md"
-        /> */}
+        
       </div>
 
       {/* Available Restaurants */}
@@ -43,7 +39,7 @@ const Home = () => {
             <img
               src={restaurant.image}
               alt={restaurant.name}
-              className="w-full h-40 object-cover"
+              className="w-full h-40 object-fit"
             />
             <div className="p-4">
               <h2 className="text-lg font-semibold text-[#2C3E50]">{restaurant.name}</h2>

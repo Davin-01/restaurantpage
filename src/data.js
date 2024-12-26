@@ -8,6 +8,7 @@ import pic7 from "./assets/images/pic7.jpg";
 import pic8 from "./assets/images/pic8.jpg";
 import pic9 from "./assets/images/pic9.jpg";
 import image3 from "./assets/images/image3.jpg";
+import pic10 from "./assets/images/pic10.jpg";
 export const restaurants = [
     {
       id: 1,
@@ -46,9 +47,15 @@ export const restaurants = [
       name: "FRUITS PAGE",
       image: image3,
       description: "Order available fresh fruits that are at your disposal",
-    }
+    },
+  {
+   id: 6,
+   name: "KFC AND NAIVAS",
+   Location: "Nakuru Town",  
+   image: pic10,
+   description: "Get yours orders from kfc and naivas delivered at your doorstep", 
+  }
   ];
-  
   export const fruits = [
     {
       id: 1,

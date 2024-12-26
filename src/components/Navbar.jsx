@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <nav className="bg-[#15181f] text-white p-4 relative">
       {/* Navbar content */}
-      <img src="/assets/images/deox.png" alt="Deox Logo" className="w-12 h-12" />
+      {/* <img src="/assets/images/deox.png" alt="Deox Logo" className="w-12 h-12" /> */}
       <h1 className="relative top-4 left-6 text-3xl font-bold text-[#FD661D]">Deox Foods</h1>
 
       {/* Navigation links */}
