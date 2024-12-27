@@ -17,6 +17,7 @@ export const restaurants = [
       location: "Main Gate",
       image: pic5,
       description: "Experience the best taste",
+      foods:['Ugali','Beef','FriedRice','Chips'],
     },
     {
       id: 2,
@@ -25,6 +26,7 @@ export const restaurants = [
       location: "Main Gate",
       image: pic6,
       description: "Savor the flavors of Main Gate",
+      foods:['Ugali','Beef','FriedRice','Chips'],
     },
     {
       id: 3,
@@ -33,6 +35,7 @@ export const restaurants = [
       location: "Njokerio",
       image: pic7,
       description: "Feel the taste of the best from Njokerio",
+      foods:['Ugali','Beef','FriedRice','Chips'],
     },
     {
       id: 4,
@@ -41,6 +44,7 @@ export const restaurants = [
       location: "Njokerio",
       image: pic8,
       description: "Experience the feel from Maggy's hotel",
+      foods:['Ugali','Beef','FriedRice','Chips',],
     },
     {
       id: 5,
